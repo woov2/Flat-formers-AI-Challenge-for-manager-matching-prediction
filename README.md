@@ -22,6 +22,6 @@
 * Total data Training
 ## Inference
 * ExtraTreesClassifier and CatBoostClassifier 8:2 SoftVoting Ensemble
-## Score
+## Score(ROC-AUC)
 * Public(0.88365) 4th
 * Private(0.87545) 2nd
